@@ -10,5 +10,5 @@ My interests
 
 ## Blog
 * [Naver](https://blog.naver.com/superstring7)
-* [velog](velog.io/@albatross__3)
+* [velog](https://velog.io/@albatross__3)
 
