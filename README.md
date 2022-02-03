@@ -4,7 +4,7 @@ Hello, My name is **DongJun Lee**. I'm majoring in __*Industrial Engineering*__ 
 
 My interests
 * Read books in various fields especially classics 📚
-* Solve real world problem(or math problem) using computer engineering 💻
+* Solve real world problem using computer engineering 💻
 
 
 
