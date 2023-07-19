@@ -9,5 +9,6 @@ My interests
 
 
 ## Blog
-* [velog](https://velog.io/@albatross__3)
+* [개발 블로그](https://albatross3.tistory.com/)
+* [코딩테스트 정리 블로그](https://velog.io/@albatross__3) 
 
